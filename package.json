@@ -1,5 +1,5 @@
 {
-  "name": "obix-polygaltic-demo",
+  "name": "obix-polyglatic-demo",
   "version": "1.0.0",
   "description": "OBIX × LibPolyCall polygaltic demo — pure OBIX runtime, no React/Vue",
   "type": "module",
